@@ -1,0 +1,6 @@
+{
+  "name": "Emirates Premium Cargo",
+  "description": "Plateforme logistique internationale et suivi de fret Chine - Cameroun - Afrique Centrale (Aérien, Maritime, Sourcing, Automobile).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
